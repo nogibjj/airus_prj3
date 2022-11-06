@@ -10,4 +10,4 @@ streamlit run webappp.py --server.enableCORS false --server.enableXsrfProtection
 How to use sqlite
 -----------------
 
-pythons sql.py
+python sql.py
