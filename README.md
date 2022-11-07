@@ -10,4 +10,5 @@ streamlit run webappp.py --server.enableCORS false --server.enableXsrfProtection
 How to use sqlite
 -----------------
 
-python sql.py
+Execute sql.ipynb 
+Set up a database --python sql.py
